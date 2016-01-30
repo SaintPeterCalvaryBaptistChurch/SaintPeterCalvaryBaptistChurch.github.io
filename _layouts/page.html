@@ -8,8 +8,7 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading">
-                  {% if page.logo %}
-                  <img src="img/3crosslogo.png"
+                  <img src="/img/3crosslogo.png"
                   height="132"
                   width="222"
                   style=
@@ -17,12 +16,7 @@ layout: default
                   margin-left: auto;
                   margin-right: auto"
                   >
-                  {% endif %}
-                  {% if page.title %}
-                  <h1>{{ page.title }}</h1>
-                  {% else %}
                   <h2>{{ site.title }}</h2>
-                  {% endif %}
                   <hr class="small">
                   <span class="subheading">{{ page.description }}</span>
                 </div>
