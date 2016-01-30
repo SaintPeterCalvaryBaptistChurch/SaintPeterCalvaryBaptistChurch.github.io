@@ -14,5 +14,35 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
 gems: [jekyll-paginate]
+
+ServicesAndSchedule:
+  - line: Sunday School
+  - line: Sundays, 9:30 am
+
+  - line: Truth Trackers <br> (Children's Ministry)
+  - line: Sundays, 9:30 am
+
+  - line: Cafe Connection
+  - line: Sundays, 10:15 am
+
+  - line: Morning Worship
+  - line: Sundays, 10:30 am
+
+  - line: Wednesday Bible Study <br> & Prayer Meeting
+  - line: Wednesdays, 7:30 pm
+
+  - line: Pastoral Counseling
+  - line: Available by appointment
+
+OurMessage:
+  - line: But speaking the truth in love, may grow up into him in all things, which is the head, even Christ. <br> - Ephesians 4:15
+
+  - line: Calvary's Christ
+  - line: Growing into His likeness for His glory.
+
+  - line: Calvary's Commitment
+  - line: Speaking the truth in love.
+
+  - line: Calvary's Character
+  - line: Belief with faith's practice as an independent church fundamental in doctrine.
