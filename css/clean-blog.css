@@ -392,6 +392,14 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
+.div-circle {
+    border-radius: 50%;
+    overflow:hidden;
+    background-position:center center;
+    background-repeat:no-repeat;
+    margin-bottom: 32px;
+    margin-right: 32px;
+}
 body {
   webkit-tap-highlight-color: #0085a1;
 }
