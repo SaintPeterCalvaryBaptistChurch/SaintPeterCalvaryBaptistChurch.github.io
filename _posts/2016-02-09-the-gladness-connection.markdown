@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Gladness Connection"
-date:       2016-02-10 12:00:00
+date:       2016-02-09 12:00:00
 author:     "Pastor Dave Johnson"
 ---
 
