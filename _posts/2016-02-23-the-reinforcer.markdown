@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Reinforcer"
-date:       2016-02-24 12:00:00
+date:       2016-02-23 12:00:00
 author:     "Pastor Dave Johnson"
 ---
 
