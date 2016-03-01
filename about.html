@@ -30,13 +30,16 @@ header-img: "img/board-bg.png"
 <ul>
   {% for item in site.OurMessage %}
     {% if forloop.index == 1 %}
+    <!-- church theme verse goes here -->
       <blockquote>{{ item.line }}</blockquote>
     {% else %}
+    <!-- calvary's x goes here -->
       {% assign mod = forloop.index | modulo:2 %}
       {% if mod == 0 %}
         <li>{{ item.line }}
         <br>
       {% else %}
+      <!-- italicize the point exposition -->
         <i>{{ item.line }}</i>
         </li>
         </br>
@@ -53,7 +56,8 @@ header-img: "img/board-bg.png"
 <hr>
   <div style="width:96px; height:96px; background-image:url('/img/churchphotos/church.jpg'); background-size:128px 96px;" class="div-circle"></div>
   <p>
-    516 W Jefferson <br>
+    516 W Jefferson
+    <br />
     St Peter, Minnesota
   </p>
 <hr>
