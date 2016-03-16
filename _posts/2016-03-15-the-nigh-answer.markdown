@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Night Answer"
+title:      "The Nigh Answer"
 date:       2016-03-15 10:00:00
 author:     "Pastor Dave Johnson"
 ---
