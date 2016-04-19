@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      "A Grace-Venture for You"
+date:       2016-04-19 10:00:00
+author:     "Pastor Dave Johnson"
+---
+
+Here's a joint venture: God REMAKING the man to fulfill His glorious purpose in a life chartered by Him.  What a creative work, as we allow SUFFERING to tap us into His grace for His glory.  Suffering is God's pathway to a glorious life lived for Him.  Yes, tough times, heart-aches, dashed dreams, illness, and all the tough roads traveled upwards can be redefined with two powerful Biblical words:  grace & glory.  "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you" (I Peter 5:10).  There is a specific calling that the Lord desires, and can only be accomplished in us, through suffering. That divine glorious calling comes to the life that accepts "suffering awhile" (remember it's seasonal, v. 10); then that life is grace-perfected (matured), grace-stablished (firm in soul), grace-strenghtened (Spirit empowered), & grace-settled (unmoveable).  The Lord is the only ONE who knows what type of Christian character we need for His glorious plan to be fulfilled in our lives.  It's a "call unto his eternal glory" (v. 10).  Joint venture?  Oh yes!  Let's take a fresh, second look at those two words: grace & glory.   GRACE can spiritually dismiss the negative, and the "oh, so human" mindset that plagues us in our association with suffering, and THEN THAT GRACE, GOD'S GRACE awakes us to His GLORY, now possessing a life molded, and in a "joint venture" to be used for His glory.  Allow that grace venture to become a grace adventure lived out with His glorious life with-in.
