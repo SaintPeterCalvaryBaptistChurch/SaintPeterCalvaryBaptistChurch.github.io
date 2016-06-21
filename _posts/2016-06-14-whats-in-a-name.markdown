@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "What's in a name?"
+title:      "What's in a Name?"
 date:       2016-06-14 00:30:00
 author:     "Pastor Dave Johnson"
 ---
