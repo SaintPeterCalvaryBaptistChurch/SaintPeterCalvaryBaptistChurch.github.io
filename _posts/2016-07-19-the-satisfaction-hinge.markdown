@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      "The Satisfaction Hinge!"
+date:       2016-07-19 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+"On the hunt for getting everything out of life that you want?"  "Happy with it all, considering it all?"  One word can be addressed: "satisfaction!"  It certainly is a BIG little word when defined with all of one's personal qualifiers.  Here's the real satisfaction qualification, the Bible one: "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied" (Proverbs 19:23).  Please notice that the fear of the Lord (having reverence for Him, His Word & His way) is directly hinged to the door of a life satisfied.  With a heart consideration for the Word, we may now emphasize the way of a contented life, a satisfied life with promise.  It's no longer that question of "am I getting everything out of life?"  The simple, but profound truth is: you have to have the LIFE  in order to receive that which life has to offer.  Jesus still tells us, "I am the . . . life" (John 14:6).  He also tells us that He is "the way, the truth" for that life (v. 6).  The spiritual Word-focused man is no longer in the hot pursuit of a proverbial "never to catch up with" his own life's satisfaction.  His spiritual compass points magnetically to His Lord, Who generates His satisfied Life in him because he's in the Biblical position to receive it (Matthew 6:33).  His quest in answer to the satisfaction question: never more to chase after his own ill-conceived satisfiers,  but claiming & clinging to that which only God can bestow.  Jesus sums it up, "I am come that they might have life and that they might have it more abundantly" (John 10:10).  We have all heard it said  "get a life!"  His is offered to us all today! SATISFIED!
