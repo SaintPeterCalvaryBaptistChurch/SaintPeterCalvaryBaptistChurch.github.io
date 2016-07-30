@@ -17,6 +17,9 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate]
 
 ServicesAndSchedule:
+  - line: Vacation Bible School
+  - line: August 9 & 10 <br> 8:45 - 11:00 am <br> Ages 4 - 12
+
   - line: Sunday School
   - line: Sundays, 9:30 am
 
