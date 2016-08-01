@@ -4,12 +4,36 @@ layout: page
 description: "Saint Peter, Minnesota"
 ---
 
+<h3>Upcoming Events</h3>
+<hr />
+  {% for item in site.UpcomingEvents %}
+    {% assign mod = forloop.index0 %}
+    {% if mod == 0 %}
+    <div class="post-preview">
+      <a>
+        <h3 class="post-subtitle">
+          {{ item.line }}
+        </h3>
+      </a>
+    </div>
+    <ul>
+    {% else %}
+      <i>{{ item.line }}</i>
+      </li>
+      <br />
+    {% endif %}
+  {% endfor %}
+</ul>
+<hr style="padding-bottom: 60px"/>
+
+
 <h3>Mini Messages</h3>
 {% for post in paginator.posts %}
 <hr>
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-subtitle">            {{ post.title }}
+        <h3 class="post-subtitle">
+          {{ post.title }}
         </h3>
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>

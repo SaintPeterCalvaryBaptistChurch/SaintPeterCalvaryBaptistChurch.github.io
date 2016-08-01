@@ -16,9 +16,15 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate]
 
+UpcomingEvents:
+  - line: Vacation Bible School
+  - line: Ages 4 - 12
+  - line: August 9 & 10
+  - line: 8:45 am - 11:30 am
+
 ServicesAndSchedule:
   - line: Vacation Bible School
-  - line: August 9 & 10 <br> 8:45 - 11:30 am <br> Ages 4 - 12
+  - line: Ages 4 - 12 <br> August 9 & 10 <br> 8:45am - 11:30 am
 
   - line: Sunday School
   - line: Sundays, 9:30 am
