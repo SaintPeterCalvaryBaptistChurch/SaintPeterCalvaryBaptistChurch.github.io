@@ -19,9 +19,6 @@ gems: [jekyll-paginate]
 UpcomingEvents:
 
 ServicesAndSchedule:
-  - line: Vacation Bible School
-  - line: Ages 4 - 12 <br> August 9 & 10 <br> 8:45am - 11:30 am
-
   - line: Sunday School
   - line: Sundays, 9:30 am
 
