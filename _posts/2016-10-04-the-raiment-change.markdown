@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Get out the Umbrella!
-date:       2016-09-27 00:30:00
+title:      The Raiment Change!
+date:       2016-10-04 00:30:00
 author:     "Pastor Dave Johnson"
 ---
 
-Need some rain?  The spiritual rain of God's blessing can be poured out on "your land" & the showers of His can be your's!  Here's the "how" and it deals with the "know" in following the "Shower Maker!" Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth" (Hosea 6:3).  His "going forth" has a direct parallel in OUR PERSONAL GOING FORTH in following the Lord.  His rain of blessing in the healing of our soul and the binding of the same Is WORD INCLUSIVE, all dealing with a revived HEART (living in him again life - v. 2).  Question: "How sure is this promise of an abundant life in our Lord?"  The answer from Hosea is clear & certain: "Thy judgments are as light that goeth forth" (v. 5).  His Word does and will go forth!  You can't put out the light & you can't stop HIS rain as you go forth in following Him! "Then ye shall know" (v. 3).  Get out the umbrella!
+Like what you're wearing?  Dressed for success?  How about appreciation for the garb of spiritual success? The Lord can help us answer those questions of personal decor. He has the spiritually attractive garment that "fits all" & it is spiritually fashioned for all!  When we wear His robe of white given at salvation, be Biblically assured that it will never go out of fashion - it's eternal. The designer garb from the Great Designer is your's for the wearing: "And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment" (Zechariah 3:4).  The raiment change is ready for all who enter His redemptive dressing room.  The changed raiment comes from the One who can change the one desiring the "new look"  of the "new man" (Ephesians 4:24).  The new  spiritual garb will catch the eyes of the one who knows what to wear!  As we wear it, "we shall walk with HIM in white" (Revelation 3:4).
