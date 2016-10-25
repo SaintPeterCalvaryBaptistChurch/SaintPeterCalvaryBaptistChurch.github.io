@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      The Press Challenge!
+date:       2016-10-25 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+Decisions, decisions, decisions - they are part of our life; being made every moment of every day.  We live with those right choices to further our love for life; but, then our hearts suddenly sink down in the murky memory of the decisions we cannot undo.  Your love for life is fulfilling when we make the right choices, especially with the Word that God has sent your way.  Yes, with your love for the the Word & the decision the Lord desires for the making in your life, He can change our heart's disposition.  "Brethren ... this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark of the high calling of God in Christ Jesus" (Philippians 3:13-14).  Instead of unwise decisions pressing on you, it's time to do some forgetting and take the "REAL PRESSING CHALLENGE!"  It's all about engaging in the high calling press, to lift you out of the low call press that reminds you of what you cannot change.  Let God change you, decide for you, by deciding for Him.  When you do, there are no more memories pressing on you to hurt you, to hinder you, or to harass you.  It all depends on the choice of who or what does the pressing.  When we press toward the high calling of God in Christ Jesus, we are well on our way in taking back our life & getting back to our love for life.  PRESS ON in your love for life, cherishing His love for your life. Your life is precious in His sight, and He does not want you to be bogged down with the old!  PRESS ON IN THE NEW with His love for life in you!
