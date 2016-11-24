@@ -17,6 +17,8 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate]
 
 UpcomingEvents:
+  - line: Happy Thanksgiving!
+
 
 ServicesAndSchedule:
   - line: Sunday School

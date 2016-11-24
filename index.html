@@ -4,6 +4,7 @@ layout: page
 description: "Saint Peter, Minnesota"
 ---
 
+{% if site.UpcomingEvents %}
 <h3>Upcoming Events</h3>
 <hr />
   {% for item in site.UpcomingEvents %}
@@ -25,7 +26,7 @@ description: "Saint Peter, Minnesota"
   {% endfor %}
 </ul>
 <hr style="padding-bottom: 60px"/>
-
+{% endif %}
 
 <h3>Mini Messages</h3>
 {% for post in paginator.posts %}
