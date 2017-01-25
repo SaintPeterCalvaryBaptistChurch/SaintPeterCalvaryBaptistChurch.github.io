@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Lost in the Translation?
-date:       2017-1-18 00:30:00
+date:       2017-1-24 00:30:00
 author:     "Pastor Dave Johnson"
 ---
 
