@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      Chop Down the Fruitless Tree!
+date:       2017-2-21 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+Plagued with that nagging perfectionism gnawing at your inner most being, and it doesn't want to go away?  Still trying to answer that personal-pointed question, "How good is good enough for my Lord?"  Oh, dear Christian, pursue the peaceful preoccupation of heart as you live for Him, because after all, remember, your Christian life is really all about Him anyway,  Scripture time: "It is God that worketh in you, both to will and to do of His good pleasure" (Philippians 2:13).  The writer of the book of Hebrews introduces us to the "God of peace" (as we are living in Him, the peaceful One, there is no  soulish disturbance regarding a "good-enough grade" associated with the parameters of His peace).  It is our Lord, Who can "make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen" (Hebrews 13:18, 20-21).  He's the "Great Shepherd of your soul" (v. 21) at work in your life, that can shine His perfection into the window of the soul abiding in His will.  Then it all comes down to "THAT which is WELL-PLEASING in his sight" (v. 21).  He is pleased with His fine-tuned work in your life, not your's. Time to chop down the fruitless tree of personal perfectionism, and allow His Holy Spirit fruit do its job with His perfect work in you (v 21).  He seals this all with "glory forever and ever" to our Lord, with a pronounced "AMEN!"  Let it be so with a "So Be It" (Amen) regarding His PERFECT WORK within us and for us as HE gives answer to the PLAGUE OF PERFECTIONISM.
