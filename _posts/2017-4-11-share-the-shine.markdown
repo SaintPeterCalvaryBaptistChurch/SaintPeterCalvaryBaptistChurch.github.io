@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      Share the Shine
+date:       2017-4-11 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+ Need a 'bit more spiritual energy to stay afloat? Need a rest from those ill-ended attempts at attaining spiritual ground? Need that "spiritual stuff" that "cuts the mustard?"   Oh, when the going gets tough, the tough go to where they get tougher. The where is found in THE WHO.  The power place is the rested place, and it is Biblically located in the Person Who imparts both.  Imagine this, exerting energy, and at the same time being in a rested state of mind and soul.  Both strength and rest come to us when we just abide in the love of God (Jude 21), & then love God in return with His same love given.  When a spiritual work in us and from us need to be accomplished, we don't have to be wasted in exhaustion, rather, we can be replenished and rested at the same time.  How? Well, it's no secret at all, just mix your faith in this spiritual solution:  "O LORD ... let them that love thee be as the sun when he goeth forth in his might. And the land had rest ..." (Judges 5:31). So simple, yet so profound.  The preface of this verse "Oh Lord" introduces the struggling, weary Christian to His love's power that can outshine, outlast, & outrun any self-styled religious walk. Why settle for religion that wears us out,  when we can have a rested & replenished relationship with our Lord. "Oh Lord" help us all to "go forth in your might," as the love of His Son goeth forth within. Then, "the land (our inner being) will have rest." With love's power, we all can go forth as the sun in his might.  In doubt, look up - SEE THE SHINE! Then SHARE THE SHINE!
