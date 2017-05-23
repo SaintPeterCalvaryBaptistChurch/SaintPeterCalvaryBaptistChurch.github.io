@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      The Freedom Walk!
+date:       2017-5-23 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+With Memorial Day fast approaching, we pause to remember the lives of those who fought and gave the ultimate sacrifice for our freedom. Now, we being free, living in that freedom paid for by others, is such a wonderful experience.  Thank God and thank those who gave their all, that we now have the privilege of being free as a citizen of the "good 'ole USA."   Liberty is all about the price paid by our heroes for the country they loved, in which we live, all associated with our citizenship.  Paul reminds us that our citizenship is also in heaven (Philippians 3:20).  Being from "that country" (Hebrews 11:16) as "born again" believers,  and "seeking those things that be above" (Colossians 3:1) will bring close a freedom walk as Christians, all because of our Lord's ultimate sacrifice at Calvary.  Now, we can  "therefore stand fast in the liberty wherewith Christ has made us  free (Galatians 5:1).  Unleashed, unbounded, & unshackled from the bondage of sin and self, we can serve the living Savior who frees us moment by moment, all through the liberating Spirit of truth.  "Ye shall know the truth, and the truth shall make you free" (John 8:32).  Freedom is not found in an "easier religion" that dismisses the truth with the guise of making unregenerate man free.  With a solid "repentant heart salvation," receiving Jesus as Savior, and walking with Him, brings Heaven's citizenship of freedom so real, so close, & so personal.  Oh, stick with the FREEDOM offered by the "Way, the Truth and Life" - that is Jesus the LIBERATOR, who offers real freedom.  "And I will walk at liberty: for I seek thy precepts" (Psalm 119:45).  
