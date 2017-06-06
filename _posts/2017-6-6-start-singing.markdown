@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      Start Singing!
+date:       2017-6-6 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+Troubled today?  Maybe so, because life is SO:  troubled!  If you are alive today, we realize trouble is also alive & real today, and that trouble just may know your soul's address.  Here's the Scripture that tells us so: "Man is born unto trouble as sparks fly upward" (Job 5:7). That sometimes grinding wheel of life, at times, turns ever so cruelly, that it weals those spark igniters that hit us where it hurts.  Even God's finest & choice servants were hit hard by life's fist-blow of trouble.  The Apostle was no exception, and he included the "We" for us all to be included: "We are troubled on every side" (2 Corinthians 4:8).  But, oh God's Word doesn't end there, the Lord assures us that the troubled soul may be knocked down, but not knocked out.  No "ten count" is warranted nor is it proclaimed on the canvas of God's champions fighting the good fight of faith (I Timothy 6:12).  We may be "troubled on every side, yet not distressed; we are perplexed, but not in despair" (v. 8).  Imagine, no distress and no despair coming to you, even when the trouble arrives at the front door step of where you live.  The Psalmist tells us why: The Lord arrives earlier than the trouble, and comes to us with His reactionary powerful presence: "But I will sing of thy power; yea I will sing of thy mercy in the morning: for thou hast been my defense and refuge in the day of my trouble" (Psalm 59:16).  Troubled today? "Start singing TODAY" in that place of His defense and His refuge - God is "in there" with you in your trouble. Troubles may come and go, but the Lord is there to stay.  "I will never leave thee nor forsake thee" (Hebrews 13:5).
