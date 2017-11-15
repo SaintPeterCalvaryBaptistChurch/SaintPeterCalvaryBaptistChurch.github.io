@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      A Child's Kingdom Heart
-date:       2017-11-8 00:30:00
+date:       2017-11-14 00:30:00
 author:     "Pastor Dave Johnson"
 ---
 
