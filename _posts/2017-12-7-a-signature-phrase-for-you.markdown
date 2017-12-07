@@ -6,7 +6,7 @@ author:     "Pastor Dave Johnson"
 ---
 
 SURPRISED? It is probably no "eye opener" to the "beloved" in the Lord that
-real, honest, genuine love is missing in so many relationships. It does't have
+real, honest, genuine love is missing in so many relationships. It doesn't have
 to be that way. God has plenty of "agape" love (God's love - I Corinthians 13)
 to "go around!" Let's send ourselves to the Biblical narrative of the Lord
 meeting with those with whom He loved. Oh, picture yourselves there and let your
