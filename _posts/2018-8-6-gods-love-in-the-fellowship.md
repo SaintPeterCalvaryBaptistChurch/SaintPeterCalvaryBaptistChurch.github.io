@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      God's Love in the Fellowship
+date:       2018-8-6 00:30:00
+author:     "Pastor Dave Johnson"
+---
+
+With the pen of Holy Spirit inspiration, love is defined as a most powerful word in the fellowship of believers: "As touching brotherly love ye need not that I should write unto you: for ye yourselves are taught of God to love one another" (1 Thessalonians 4:9).  The Apostle Paul reveals to us that no pen power of persuasion from man is needed.   When "ye are taught of God to love" we all have the Lord Himself as Teacher of love's scrip upon the heart!  The Word presents the power of love: Biblical, spiritual, and personal:  1) The power of love begins with God's love taught in His inspired Word, that's powerful (v. 9).  2) Love is Spirit empowered in the believer's life, "Indeed, ye do it toward all the brethren," that's spiritual fellowship (v. 10), & 3) "Ye increase more and more," that's the power generated from His person to our person, to another person and shared throughout the body (v. 10).  The "indeed ye do it" (v. 10), becomes a personal assignment as God pours His love in us.  Yes, we can "indeed do it" bringing the divinely energizing fuel into the fellowship.  When there is input from the Lord established by the Word and empowered by His Spirit, there is the output fellowship of love to be enjoyed by the spiritually minded.  Love's input from Him brings the output fellowship of love that He intended in His body, the church.  When we abide in that Spirit of love, given by Him and shared with our brothers and sisters in Christ, the fellowship is going somewhere, in power: God's way,  as a fellowship attracted by His love!
