@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whom Jesus Loved
+title: Gospel Grace
 date: 2019-01-15 00:30:00
 author: "Pastor Dave Johnson"
 ---
