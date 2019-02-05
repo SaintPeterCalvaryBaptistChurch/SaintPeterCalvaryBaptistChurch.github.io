@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Making of a Model Church
+date: 2019-02-05 00:30:00
+author: "Pastor Dave Johnson"
+---
+
+When it comes to being a model church, the band of believers at Antioch incite a spiritual incentive to every local assembly (Acts 11). "Preaching the Lord Jesus" was their Biblical message (v. 20). "The hand of the Lord with them" was the evidence of their spiritual life (v. 21). People "believed, & turned to the Lord" was their active witness (v. 21). "Tidings of these things came" was their living testimony (v. 22). "The grace of God" was their favorable supply (v. 23). "With purpose of heart" was their determined resolution: to "cleave unto the Lord" (v. 23). "Disciples" were they as being faithfully "assembled" with no outside interests keeping them from encouraging the body of believers with their presence. "Disciples" (disciplined ones) were they with a willingness of being "taught" knowing that their shepherd-pastor has a calling of God to lead them (v. 26). Their cherished calling: "Christ being first," was the characterization of the church as being Spirit-filled indeed! Their "being called Christians first" (v. 26), was their collective identification of "Christ in each one!" An attraction? Absolutely. A model church? No doubt. A Christ honoring church? An affirmative answer to that and each question indeed, when Christ is first! Then, when the visitor arrived, namely Barnabas, "who, when he came, and had seen the grace of God, WAS GLAD" (v. 23). The joy of the Lord, His gladness was present because of Christ being honored in everyone; that was the making of a Church at Antioch, all because CHRIST CAME FIRST.
