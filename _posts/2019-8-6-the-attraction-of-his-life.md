@@ -1,6 +1,6 @@
 ---
 layout: post
-title: But We See Jesus
+title: The Attraction of His Life
 date: 2019-08-06 00:30:00
 author: "Pastor Dave Johnson"
 ---
