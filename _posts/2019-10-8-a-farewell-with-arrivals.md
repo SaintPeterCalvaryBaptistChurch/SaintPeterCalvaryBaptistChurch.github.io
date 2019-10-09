@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lay Hold on the Eternal
+title: A Farewell With Arrivals
 date: 2019-10-08 00:30:00
 author: 'Pastor Dave Johnson'
 ---
