@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Author of the New
+title: The Fuel of Fellowship
 date: 2020-01-14 00:30:00
 author: "Pastor Dave Johnson"
 ---
