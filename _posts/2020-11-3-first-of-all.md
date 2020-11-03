@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genuine and Glorious
+title: First of All
 date: 2020-11-3 00:30:00
 author: "Pastor Dave Johnson"
 ---
