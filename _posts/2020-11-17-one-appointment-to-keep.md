@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Appointment to Keep
-date: 2020-11-10 00:30:00
+date: 2020-11-17 00:30:00
 author: "Pastor Dave Johnson"
 ---
 
