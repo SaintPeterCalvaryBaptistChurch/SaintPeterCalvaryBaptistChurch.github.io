@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Your Personal Perfecter
-date: 2021-02-06 00:30:00
+title: The Word and the Work of God's Love
+date: 2021-02-13 00:30:00
 author: "Pastor Dave Johnson"
 ---
 
